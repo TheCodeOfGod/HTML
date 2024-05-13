@@ -1,0 +1,26 @@
+*{
+    font-family: Calibri;
+    background-color: cornsilk;
+}
+
+.contenedor{
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: grey;
+    margin-right: 20px;
+}
+
+.perfil {
+    margin-left: 30px;
+    border: 20px sol;
+    border-radius: 200px;
+    width: 10%;
+}
+
+.sobreMi{
+    margin-left: 30px;
+}
+
+.texto{
+    margin-left: 30px;
+}
