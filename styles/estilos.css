@@ -27,6 +27,7 @@ hr{
     margin-right: 20px;
     background: rgba(255, 255, 255, .25);
     -webkit-backdrop-filter: blur(5px);
+    box-shadow: 10px 10px 50px;
     
 }
 
@@ -35,6 +36,7 @@ hr{
     border: 4px solid rgb(253, 237, 252, .25);
     border-radius: 100px;
     width: 10%;
+    
 }
 
 .sobreMi{
@@ -50,5 +52,10 @@ ul li{
 }
 
 #tit01{
-    
+    font-size: 45px;
+    text-shadow: 5px 1px 2px violet;
+}
+
+#tit_lista{
+    text-shadow: 4px 1px 2px violet;
 }
